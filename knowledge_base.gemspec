@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   s.test_files = Dir["spec/**/*", "fixtures/**/*"]
 
   s.add_dependency "rails", "~> 4.0"
-  s.add_dependency "friendly_id", "~> 5.0.0"
+  s.add_dependency "friendly_id", "~> 5"
   s.add_dependency "publishable", "~> 1.0.1"
   s.add_dependency "carrierwave", "~> 0.10.0"
   s.add_dependency "embeddable", "~> 0.0.2"
